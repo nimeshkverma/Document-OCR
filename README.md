@@ -19,3 +19,11 @@ At present the Project contains the customer app, with all the REST APIs for the
 *Instruction for Code submission*
 
 - Make a Fork of this Repository and Raise a Pull Request
+
+*Instruction for Repo Setup*
+- cd Document-OCR
+- virtualenv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+- cd documentocr
+- cp setting_sample.py setting_sample.py 
