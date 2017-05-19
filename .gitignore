@@ -1,0 +1,13 @@
+venv
+fvenv
+.env
+*.pyc
+.gitignore
+settings.py
+*.log
+.cache
+*.swp
+*.swo
+*.DS_Store
+migrations
+
